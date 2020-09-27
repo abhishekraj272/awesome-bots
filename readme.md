@@ -186,6 +186,7 @@ You can request access here:
 * [ChatMapper](http://www.chatmapper.com/) - writing and testing non-linear dialogs
 * [Cheap Bots, Done Quick!](http://www.cheapbotsdonequick.com/) - Help you make a Twitterbot! They're easy to make and free to run.
 * [BotMockup for Telegram](http://mockuprobot.voltsoft.ru/) - Superfast mockup-tool for Telegram bots! Totaly free. Construct and send messages to the sample bot and make screenshots.
+* [MessengerX.io](https://www.messengerx.io/) - Speed up build and deploy omni channel chatbots.
 
 #### Testing
 * [BotTesting](http://bottesting.co/) - Test your bot! Send your email and bot link to us, we’ll examine your bot’s performance and usability
@@ -315,7 +316,7 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [BotNation AI](https://botnation.ai) - Bot building platform for engaging voice and text-based conversational apps.
 * [CONVRG](https://www.convrg.io) - Enterprise AI-powered chatbot and messaging experience platform providing personalized conversations that live on FMB, Kik, Webchat, Alexa and Google Home, integrates with CMS systems and E-Commerce platforms.
 * [IBM Bot Asset Exchange](https://developer.ibm.com/code/exchanges/bots/)
-* [eXvisory](https://exvisory.ai) - Visual framework for creating 'deep logic' product support AI chatbots able to match the BEST human troubleshooters
+* [MessengerX.io](https://www.messengerx.io) - Build, deply and expose chatbots to millions across our Chat App Network.
 
 ### Personal assistants
 * [x.ai](https://x.ai/) - x.ai is a personal assistant who schedules meetings for you
@@ -393,6 +394,9 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [Telegram-Typings](https://www.npmjs.com/package/telegram-typings) - A tool for parsing Telegram API page to the typings.
 * [Chatito](https://rodrigopivi.github.io/Chatito) - Generate datasets for nlu chatbots quickly using a simple DSL.
 * [Probot](https://probot.github.io/) - SDK for building bots around GitHub workflows
+* [Machaao](https://pypi.org/project/machaao/) - Python SDK for building and deploying chatbots in few minutes.
+* [Machaao Go](https://pkg.go.dev/github.com/machaao/machaao-go) - Go(Golang) SDK for building and deploying chatbots in a few minutes.
+* [Machaao Js](https://www.npmjs.com/package/machaao) - Javascript SDK for building and deploying chatbots in a few minutess. 
 
 #### Boilerplates/templates
 * [Ruby Telegram bot boilerplate](https://github.com/MaximAbramchuck/ruby-telegram-bot-starter-kit)
@@ -402,6 +406,11 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [Node Telegram bot boilerplate](https://github.com/txwkx/node-telegram-bot-boilerplate)
 * [Node BotUI + API.AI App Boilerplate](https://github.com/sushantshekhar20/bot_api.ai)
 * [Node Telegraf.js Bot Template (async/knex/dotenv/eslint/sao)](https://github.com/Piterden/template-bot)
+* [MessengeX.io Javascript bot boilerplate](https://github.com/machaao/messengerx-js)
+* [MessengerX.io + Rasa bot boilerplate](https://github.com/machaao/rasa-sample-nlu-bot)
+* [MessengerX.io + Wit.ai bot boilerplate](https://github.com/machaao/messengerx-wit-go)
+* [MessengerX.io Quiz bot boilerplate](https://github.com/machaao/TriviaBot)
+* [Machaao Android bot boilerplate](https://github.com/machaao/machaao-samples)
 
 #### Tutorials/Guides
 * [The Complete Beginner’s Guide To Chatbots](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca#.54ql2uhaf)
@@ -427,6 +436,11 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [Facebook Chatbot Tutorial](https://github.com/AdrianKrebs/facebook-chatbot-tutorial)
 * [How To Create a Telegram Bot Using Python](https://khashtamov.com/2017/02/how-to-create-a-telegram-bot-using-python/)
 * [How to integrate a Dozen Messaging Platforms in 5 Minutes](https://medium.com/broid/integrate-a-dozen-messaging-platforms-in-5-minutes-4d77ee48f4c3)
+* [Create a trivia chatbot with Node.js and Heroku](https://blog.messengerx.io/tutorials/create-a-trivia-chatbot-on-messengerx-with-node-js-and-heroku/)
+* [Build deeply personalized chatbots at production scale](https://blog.messengerx.io/tutorials/build-deeply-personalized-chatbots-at-production-scale/)
+* [A quick start tutorial on creating and deploying a Python based AI sample chatbot template](https://www.linkedin.com/pulse/create-deploy-python-chatbot-within-minutes-abhishek-raj/)
+* [Convert your wordpress site into an AI-based chatbot.](https://www.linkedin.com/pulse/creating-wordpress-chatbot-deploying-messengerx-platform-raj/?published=t)
+* [A quick start tutorial for setting up an AI chatbot using Wit.ai](https://chatbotslife.com/a-quick-start-tutorial-for-setting-up-an-ai-chatbot-using-wit-ai-2cbfe3878668)
 
 ### Useful articles
 * [Comparison: ManyChat vs Chatfuel](https://www.thinktuitive.com/comparison-manychat-vs-chatfuel) - ManyChat vs Chatfuel in-depth review & comparison.
@@ -564,6 +578,7 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [HHBots](https://www.facebook.com/groups/hhbots/) - This group was created to provide a place for people to talk about their favorite facebook bots, slack bots, or any kind of bots!
 * [Messenger Platform Developer Community](https://www.facebook.com/groups/242384196138564/) - This is a forum for developers building on the Messenger platform to interact with the Messenger team and other developers
 * [Botmakers](https://botmakers.slack.com) - Slack community for bot enthousiasts, developers & marketers
+* [MessengerX.io Gitter chat](https://gitter.im/messengerx-io/community) - Gitter community for helping build scalable chatbots.
 
 
 ### Video Tutorials
